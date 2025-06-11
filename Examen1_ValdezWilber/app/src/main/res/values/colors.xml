@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Colores para el porcentaje
+    <color name="rojo">#F20202</color>
+    <color name="rosa">#ED7CCC</color>
+    <color name="naranja">#F06D41</color>
+    <color name="azul">#6479FB</color>
+
+    //Paleta morada
+    <color name="morado">#B653FD</color>
+    <color name="moradoBajito">#C989F6</color>
+    <color name="moradoAlto">#5A0499</color>
+    <color name="moradoMuyBajito">#E7D9F6</color>
+
+</resources>
